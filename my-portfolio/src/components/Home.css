@@ -1,0 +1,26 @@
+.home-section {
+  background: linear-gradient(135deg, #00aaff, #005f99);
+  color: white;
+  border-radius: 10px;
+  padding: 100px 30px;
+  text-align: center;
+  box-shadow: 0 15px 35px rgba(0, 170, 255, 0.4);
+}
+
+.home-content h1 {
+  font-size: 3rem;
+  margin-bottom: 15px;
+  font-weight: 900;
+  letter-spacing: 3px;
+}
+
+.home-content p {
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-bottom: 25px;
+}
+
+.btn-primary {
+  font-size: 1.2rem;
+  padding: 15px 40px;
+}

@@ -1,0 +1,14 @@
+.contact-section p {
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+}
+
+.contact-section a {
+  color: #0077cc;
+  font-weight: 600;
+}
+
+.contact-section a:hover {
+  color: #004466;
+  text-decoration: underline;
+}
